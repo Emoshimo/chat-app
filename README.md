@@ -3,7 +3,7 @@
 This repository contains a real-time chat application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The application leverages Socket.io for real-time communication and Chakra UI for a clean and intuitive user interface.
 
 ## Features
-
+- George Washington
 - Real-time chat functionality using Socket.io
 - Create and join chat rooms
 Personalize user profiles

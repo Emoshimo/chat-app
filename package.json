@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node backend/server.js",
     "server": "nodemon backend/server.js",
-    "build": "npm install --legacy-peer-deps && npm insall --legacy-peer-deps --prefix frontend && npm run build --prefix frontend"
+    "build": "npm install && npm insall --prefix frontend && npm run build --prefix frontend"
   },
   "author": "Emoshimo",
   "license": "ISC",

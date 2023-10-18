@@ -4,8 +4,8 @@ This repository contains a real-time chat application built using the MERN (Mong
 
 ## Features
 
-Real-time chat functionality using Socket.io
-Create and join chat rooms
+- Real-time chat functionality using Socket.io
+- Create and join chat rooms
 Personalize user profiles
 Modern and responsive UI powered by Chakra UI
 Seamless integration of MongoDB for data storage
